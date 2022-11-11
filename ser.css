@@ -1,0 +1,29 @@
+
+   table.link{
+    border: 1px solid black;
+    width: 1400;
+   }
+   
+   td{
+        text-align: justify;
+        font-family:Cooper Black;
+        font-size: 22px;
+        font-variant-caps:petite-caps;
+        font-weight: lighter;
+        font-style: initial;
+   }
+    
+    p{
+    border-width: 4px;
+	border-color:rgb(79,184,189); 
+	border-style:inset;
+	background-color:rgb(39, 37, 70); 
+	color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-style:oblique;
+	text-align: center;
+
+    }
+    body{
+    	background-color: rgb(39, 37, 70);
+    }
