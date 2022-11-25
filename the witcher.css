@@ -1,0 +1,90 @@
+p{
+    color: white;
+    font-size: 20px;
+    font-family: Rockwell;
+}
+ div{
+    Border:5px solid;
+    border-color:#191970;
+    background-color:  #040407 ;
+    border-radius: 10px;
+    text-align: center;
+    width:1420px;
+    height:60px;
+    position: relative;
+    right: 200px;
+    top: -80px;
+    margin-top: -50px;
+    margin-left: 150px;
+    font-size: 20px;
+   }
+   li{
+    color: white;
+     font-size: 20px;
+    font-family: Rockwell;
+   }
+h2{
+    color: #4682b4;
+    font-size: 40px;
+    font-family: SimSun;
+}
+h5{
+    font-family: Franklin Gothic Médio;
+    color: #87ceeb;
+}
+img{
+    width: 200px;
+    height: 250px;
+}
+body{
+    background-color: #040407;
+}
+  a:link{
+    color:#b0c4de; 
+    text-align: center;
+    font-family: Mísula; 
+    }
+    a:active{
+    font-family: Mísula;
+    color: darkred;
+    Border:0px solid;
+    background-color: #f5fffa;
+    border-radius: 10px;
+    }
+    a:hover{
+    font-family: Mísula;
+    Border:0px solid;
+    background-color:#f5fffa;
+    border-radius: 10px;
+    color: #010b13;
+    }
+    a:visited{
+    color:#6495ed; 
+    text-align: center;
+    font-family: Mísula;
+    }
+
+td, tr, table{
+    text-align: center;
+    font-size: 20px;
+    padding: 15px;
+}
+div.toda{
+    width: 1370px;
+    height: 4050px;
+    border:solid;
+    border-color: #b0c4de;
+    border-radius: 10px;
+    margin-left: 180px;
+    margin-top: 60px;
+
+}
+mark{
+    color: white;
+    background-color: #4169e1;
+}
+li{
+    color:white;
+    font-family:MV Boli;
+    font-size: 20px;
+}
