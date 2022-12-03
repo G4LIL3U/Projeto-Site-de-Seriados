@@ -1,0 +1,90 @@
+h4{
+    color: red;
+    font-size: 20px;
+    padding: 15px;
+}
+p{
+    color: white;
+    font-size: 20px;
+    font-family: Rockwell;
+}
+ div{
+    Border:5px solid;
+    border-color:#dda0dd;
+    background-color:  #040407 ;
+    border-radius: 10px;
+    text-align: center;
+    width:1410px;
+    height:60px;
+    position: relative;
+    right: 200px;
+    top: -80px;
+    margin-top: -50px;
+    margin-left: 150px;
+    font-size: 20px;
+   }
+h2{
+    color:#4b0082;
+    font-size: 40px;
+    font-family: SimSun;
+}
+h5{
+    font-family: Franklin Gothic Médio;
+    color: #6a5acd;
+}
+img{
+    width: 200px;
+    height: 250px;
+}
+body{
+    background-color: #040407;
+}
+  a:link{
+    color:#8a2be2; 
+    text-align: center;
+    font-family: Mísula; 
+    }
+    a:active{
+    font-family: Mísula;
+    color: darkred;
+    Border:0px solid;
+    background-color: #f5fffa;
+    border-radius: 10px;
+    }
+    a:hover{
+    font-family: Mísula;
+    Border:0px solid;
+    background-color:#f5fffa;
+    border-radius: 10px;
+    color: #010b13;
+    }
+    a:visited{
+    color:#da70d6; 
+    text-align: center;
+    font-family: Mísula;
+    }
+
+td, tr, table{
+    text-align: center;
+    color: red;
+    font-size: 20px;
+    padding: 15px;
+}
+div.toda{
+    width: 1350px;
+    height: 4100px;
+    border:solid;
+    border-color: #e9967a;
+    border-radius: 10px;
+    margin-left: 180px;
+    margin-top: 60px;
+}
+mark{
+    background-color: #8b008b;
+    color: white;
+}
+li{
+    color: white;
+    font-family:MV Boli;
+    font-size: 20px;
+}
